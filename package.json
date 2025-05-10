@@ -1,7 +1,8 @@
 {
   "name": "contacts-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Contacts API project for BYU-Idaho",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,3 +24,4 @@
     "nodemon": "^3.1.10"
   }
 }
+
